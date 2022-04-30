@@ -1,2 +1,8 @@
 # report-vaccines
- building Covid-19 vaccines report Bot | UiPathbuilding Covid-19 vaccines report Bot | UiPath Feb 2022 - Feb 2022Feb 2022 - Feb 2022 In this project i used UiPath Robotic Process Automation to :    - Extract Data From the website for Covid-19 :   _ Total number of doses administered  _ New doses administered (1 day*)  _ Fully vaccinated people  _ % of population fully vaccinated   - Puting the Extract Data in Excel file.   - Sending the Excel file over the email to required recipients.
+ In this project i used UiPath Robotic Process Automation to : 
+ - Extract Data From the website for Covid-19 : _ Total number of doses administered  
+                                                _ New doses administered (1 day*)  
+                                                _ Fully vaccinated people  
+                                                _ % of population fully vaccinated  
+ - Puting the Extract Data in Excel file.  
+ - Sending the Excel file over the email to required recipients.
